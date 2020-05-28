@@ -1,0 +1,36 @@
+<DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta> charset="utf-8"/>
+	<title>Moje ulubione zwierzęta</title>
+</head>
+<figure>
+<img src="zwierze.png">
+</figure>
+<figure>
+<img src="zwierze.png">
+</figure>
+<p>Kocham wszystkie zwierzęta – no może poza wężami, pająkami, kleszczami i pozostałymi
+gadami i owadami. Kocham wszystkie zwierzęta – no może poza wężami, pająkami,
+kleszczami i pozostałymi gadami i owadami. Kocham wszystkie zwierzęta – no może poza
+wężami, pająkami, kleszczami i pozostałymi gadami i owadami. Kocham wszystkie
+zwierzęta – no może poza wężami, pająkami, kleszczami i pozostałymi gadami i owadami.
+Kocham wszystkie zwierzęta – no może poza wężami, pająkami, kleszczami i pozostałymi
+gadami i owadami. Kocham wszystkie zwierzęta – no może poza wężami, pająkami,
+kleszczami i pozostałymi gadami i owadami. Kocham wszystkie zwierzęta – no może poza
+wężami, pająkami, kleszczami i pozostałymi gadami i owadami.</p>
+	
+<body>
+	<header>
+		<h1>zwierzęta</h1>
+	</header>
+	<figure>
+	<img src="zwierze2.png">
+	</figure>
+	<figure>
+	<img src="zwierze2.png">
+	</figure>
+	<br>
+	<br>
+	<p>Strona wykonana przez-Antek Szefler
+	
